@@ -1,0 +1,78 @@
+h1 {
+    font-size: 30px;
+    color: rebeccapurple;
+    text-align: center;
+}
+
+#getRequest {
+    width: fit-content;
+    height: 30px;
+    border-radius: 10px;
+    background: rgba(210, 105, 30, 0.315);
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+#postRequest {
+    width: fit-content;
+    height: 30px;
+    border-radius: 10px;
+    background: rgba(30, 210, 171, 0.315);
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+#getRequestbyGivenId {
+    width: fit-content;
+    height: 30px;
+    border-radius: 10px;
+    background: rgba(210, 183, 30, 0.315);
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+#PutRequestbyGivenId {
+    width: fit-content;
+    height: 30px;
+    border-radius: 10px;
+    background: rgba(63, 30, 210, 0.315);
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+#deleteRequest {
+    width: fit-content;
+    height: 30px;
+    border-radius: 10px;
+    background: rgba(210, 30, 30, 0.315);
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+#queryRequest {
+    width: fit-content;
+    height: 30px;
+    border-radius: 10px;
+    background: rgba(63, 30, 210, 0.315);
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+#findbineryNumber {
+    width: fit-content;
+    height: 80px;
+    border-radius: 20px;
+    background: rgba(192, 154, 30, 0.315);
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+
+#EventLoop {
+    width: fit-content;
+    height: 80px;
+    border-radius: 20px;
+    background: rgba(77, 62, 16, 0.315);
+    cursor: pointer;
+    margin-right: 10px;
+}
